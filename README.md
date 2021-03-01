@@ -1,2 +1,2 @@
-# cursoAngularFirebasev1.4
+# curso
 Created with CodeSandbox
